@@ -1,14 +1,5 @@
+
 public class Function {
-	
-	public static void main(String[] args) {
-		
-		int x = 4;
-		int k = -18;
-		int y = 17;
-		
-		System.out.println("The result is: " + Fun(x, k, y));
-		
-	}
 	
 	public static int Fun(int x, int k, int y){
 		System.out.println("Edge A");
