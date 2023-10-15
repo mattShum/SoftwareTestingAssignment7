@@ -7,6 +7,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 1
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals: 
 	 * C1(true), C2(true), C3(true), C4(true)
 	 */	 
@@ -20,6 +21,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 2
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals: 
 	 * C1(true), C2(true), C3(false), C4(true)
 	 */	 
@@ -33,6 +35,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 3
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals: 
 	 * C1(true), C2(true), C3(false), C4(false)
 	 */	 
@@ -46,6 +49,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 4
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(true), C2(false), C3(true), C4(true)
 	 */	 
@@ -59,6 +63,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 5
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(true), C2(false), C3(false), C4(true)
 	 */	 
@@ -72,6 +77,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 6
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(true), C2(false), C3(true), C4(false)
 	 */	 
@@ -85,6 +91,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 7
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(true), C2(false), C3(false), C4(false)
 	 */	 
@@ -98,6 +105,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 8
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(false), C2(-), C3(true), C4(true)
 	 */	 
@@ -111,6 +119,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 9
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(false), C2(-), C3(false), C4(true)
 	 */	 
@@ -124,6 +133,7 @@ class MCCCov {
 	@Test
 	/*
 	 * Test Case ID: MCCCov 10
+	 * Created by Matt Shuman
 	 * This test case asserts the conditionals:
 	 * C1(false), C2(-), C3(false), C4(false)
 	 */	 
